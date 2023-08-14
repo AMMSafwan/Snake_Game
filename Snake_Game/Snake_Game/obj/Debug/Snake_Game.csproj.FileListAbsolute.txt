@@ -1,0 +1,16 @@
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\Snake_Game.csprojAssemblyReference.cache
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\MainWindow.g.cs
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\App.g.cs
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\Snake_Game_MarkupCompile.cache
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\Snake_Game_MarkupCompile.lref
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\bin\Debug\Snake_Game.exe.config
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\bin\Debug\Snake_Game.exe
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\bin\Debug\Snake_Game.pdb
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\App.baml
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\MainWindow.baml
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\Snake_Game.g.resources
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\Snake_Game.Properties.Resources.resources
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\Snake_Game.csproj.GenerateResource.cache
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\Snake_Game.csproj.CoreCompileInputs.cache
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\Snake_Game.exe
+C:\Users\Futuemind\Desktop\Git works\Snake_Game_C#\Snake_Game\Snake_Game\obj\Debug\Snake_Game.pdb
